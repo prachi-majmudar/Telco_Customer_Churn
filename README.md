@@ -40,9 +40,9 @@ Based on the data, I recommend the following three-pronged strategy to reduce ch
 | **3. Payment Automation Push** | Implement a "Set it and Forget it" incentive (e.g., $5 one-time credit) for users switching from Electronic Check to Auto-Pay (Credit Card). | Users paying via Electronic Check. |
 
 ## 📂 Project Structure
-* `data/`: Contains the raw CSV file (sourced from Kaggle).
-* `notebooks/`: The Jupyter Notebook containing all Python code for cleaning and analysis.
-* `images/`: Visualizations generated during the analysis.
+* `WA_Fn-UseC_-Telco-Customer-Churn`: Contains the raw CSV file (sourced from Kaggle).
+* `Telco_Churn_Analysis.ipynb`: Notebook containing all Python code for cleaning and analysis.
+* `images`: Visualizations generated during the analysis.
 * `README.md`: Project summary and findings.
 
 ## 🚀 How to Run
