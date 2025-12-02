@@ -26,7 +26,7 @@ Surprisingly, customers with **Fiber Optic** internet (the premium service) have
 ### 3. Electronic Check Payment Friction
 Customers paying via **Electronic Check** have significantly higher churn compared to those using Credit Cards or Bank Transfers. This suggests the manual nature of this payment method leads to missed payments and subsequent cancellations.
 
-![Correlation Chart]
+[Correlation Chart]
 https://github.com/prachi-majmudar/Telco_Customer_Churn/blob/main/images/correlation%20chart.png 
 
 ## 💡 Strategic Recommendations
